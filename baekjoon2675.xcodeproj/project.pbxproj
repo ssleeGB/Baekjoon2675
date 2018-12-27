@@ -42,7 +42,6 @@
 		89B1AA6321D49A2B00BEB539 = {
 			isa = PBXGroup;
 			children = (
-				89B1AA7621D49A3E00BEB539 /* input.txt */,
 				89B1AA6E21D49A2B00BEB539 /* baekjoon2675 */,
 				89B1AA6D21D49A2B00BEB539 /* Products */,
 			);
@@ -59,6 +58,7 @@
 		89B1AA6E21D49A2B00BEB539 /* baekjoon2675 */ = {
 			isa = PBXGroup;
 			children = (
+				89B1AA7621D49A3E00BEB539 /* input.txt */,
 				89B1AA6F21D49A2B00BEB539 /* main.c */,
 			);
 			path = baekjoon2675;
